@@ -1,4 +1,4 @@
-# vuelinksapp
+# Vue.js and Firebas
 
 > A Vue.js project
 
