@@ -1,4 +1,4 @@
-# Vue.js and Firebas
+# Vue.js and Firebase
 
 > A Vue.js project
 
